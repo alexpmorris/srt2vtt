@@ -1,0 +1,662 @@
+1
+00:07:44,050 --> 00:07:53,289
+Sure and I'd like to begin well you said
+something about tokens and if you guys
+
+2
+00:07:53,289 --> 00:08:06,569
+know big Steem started as a translation
+project for posts on Steem and for
+
+3
+00:08:06,569 --> 00:08:14,430
+all the things related to BtiShares, to
+Steem [and] to Graphene technology in general.
+
+4
+00:08:14,430 --> 00:08:26,289
+And we were at some point I think it was
+like last December or maybe January this
+
+5
+00:08:26,289 --> 00:08:36,779
+year [that] we're considering creating tokens
+to sell translation things and with this
+
+6
+00:08:36,779 --> 00:08:45,070
+whole thing about community tokens we
+might consider doing that actually but
+
+7
+00:08:45,070 --> 00:08:52,000
+it's something that I just wanted to say
+for like kind of historical reasons.
+
+8
+00:08:52,000 --> 00:09:01,149
+We have a team of translators and we
+have quite a bit of people who asked us
+
+9
+00:09:01,149 --> 00:09:07,779
+to translate things. When we started we were
+
+10
+00:09:07,779 --> 00:09:13,360
+thinking about how to monetize what we
+are doing because you know most of
+
+11
+00:09:13,360 --> 00:09:20,470
+things we do we do for Steemit votes
+and Golos votes. And sometimes they give
+
+12
+00:09:20,470 --> 00:09:27,130
+you nice payout and the translator is
+happy because the money goes to the translators.
+
+13
+00:09:27,130 --> 00:09:35,290
+But sometimes not so much and we were
+thinking about things that would allow
+
+14
+00:09:35,290 --> 00:09:48,340
+to have some sort of stable income.
+But instead we went and start doing our
+
+15
+00:09:48,340 --> 00:09:52,420
+own interface for bitshares
+and that also started as the translation
+
+16
+00:09:52,420 --> 00:09:58,020
+project. Because bitshares didn't have a
+Russian interface at the time
+
+17
+00:09:58,020 --> 00:10:08,670
+and we were approached by testers who said
+like "you guys are working on this maybe
+
+18
+00:10:08,670 --> 00:10:17,130
+you want to do Russian tools translation?"
+We said yeah sure and then after we did
+
+19
+00:10:17,130 --> 00:10:21,930
+that we thought "okay we have this
+interface translation we could probably
+
+20
+00:10:21,930 --> 00:10:30,560
+create our own interface and have a lot
+of ideas about what we want to see on
+
+21
+00:10:30,560 --> 00:10:40,800
+bitshares". And that way we had an ability to
+fullfill all of them. For example one of the
+
+22
+00:10:40,800 --> 00:10:51,050
+things that that we have that's
+different from when BitShares started is our
+
+23
+00:10:51,320 --> 00:11:02,100
+telegram based trollbox that we
+have a sandboxed iframe with the chat
+
+24
+00:11:02,100 --> 00:11:09,120
+blog?? A lot of people say that was
+a security problem and we spent a lot of
+
+25
+00:11:09,120 --> 00:11:17,210
+time to safeguard this. At some point we
+were considering maybe seeing if there's
+
+26
+00:11:17,210 --> 00:11:27,450
+code for chatbrel?? and working on our own [version] so
+we would know that it's safe enough.
+
+27
+00:11:27,450 --> 00:11:37,830
+Because when you are dealing
+with cryptowallets such as Bit-
+
+28
+00:11:37,830 --> 00:11:48,270
+Shares DEX essentially you can't have
+too much security. Anyway one of the
+
+29
+00:11:48,270 --> 00:12:00,600
+things that we always wanted as a Ruble
+MPA (Market Pegged Asset) and we created it and gave it
+
+30
+00:12:00,600 --> 00:12:10,950
+to the committee. So it's now an
+official Ruble currency MPA of
+
+31
+00:12:10,950 --> 00:12:16,990
+BitShares
+and all price
+
+32
+00:12:16,990 --> 00:12:26,010
+feeds for it are provided by 
+producing??witnesses. And also after that,
+
+33
+00:12:26,010 --> 00:12:33,640
+since we position ourselves as Graphene
+ambassadors for russian-speaking
+
+34
+00:12:33,640 --> 00:12:45,280
+audience we also worked and talked
+with communities of Peerplays, of Muse
+
+35
+00:12:45,280 --> 00:12:56,130
+, of Golos and of Steem and Bitshares
+itself and created 0% marketfee
+
+36
+00:12:56,130 --> 00:13:04,360
+gateways that allow people to trade
+their their tokens and exchange their
+
+37
+00:13:04,360 --> 00:13:13,360
+tokens from Graphene based networks
+without any friction other than paying
+
+38
+00:13:13,360 --> 00:13:21,670
+miniscule Bitshares commissions. That
+is made possible because we don't have
+
+39
+00:13:21,670 --> 00:13:31,540
+any investors that we
+have any responsibilities [to] in turning a
+
+40
+00:13:31,540 --> 00:13:43,060
+profit and [things] like that. And also
+[because] we have an active witness in
+
+41
+00:13:43,060 --> 00:13:51,400
+all those networks. In Bitshares we're a producing witness.
+
+42
+00:13:51,400 --> 00:13:57,760
+In Peerplays and in MUSE we're a producing
+witness and in Steem and Golos we are
+
+43
+00:13:57,760 --> 00:14:08,170
+in the top 20 which is maybe one
+or two percent ,or I don't know several
+
+44
+00:14:08,170 --> 00:14:18,300
+hundred thousand or like millions of
+vests away from being a top 19 witness
+
+45
+00:14:18,300 --> 00:14:24,510
+and producing a block every round. But
+even even without being there
+
+46
+00:14:24,510 --> 00:14:30,960
+we're still close to the top. On
+Steem currently we've been running witness
+
+47
+00:14:30,960 --> 00:14:38,040
+since spring. I think it was late
+March or early April when we
+
+48
+00:14:38,040 --> 00:14:48,600
+announced our the launch of our witness. We are still not in top 50 so if you
+
+49
+00:14:48,600 --> 00:14:54,720
+want to vote for a witness to support
+whatever what we are doing, you'll have
+
+50
+00:14:54,720 --> 00:15:03,030
+to input the witness name in the field
+for voting for non-in-the-top witnesses
+
+51
+00:15:03,030 --> 00:15:14,210
+and this name is "Blockchained" like
+block chain ed. H opefully we
+
+52
+00:15:14,210 --> 00:15:22,560
+consider that most likely if enough
+people vote for us we have to be made
+
+53
+00:15:22,560 --> 00:15:31,320
+like [rank] 30 and maybe eventually make it into the top. But top 30 would
+
+54
+00:15:31,320 --> 00:15:37,920
+be nice and I think it would be enough
+to allow us to accelerate what
+
+55
+00:15:37,920 --> 00:15:45,260
+we're doing by quite a bit. Next up in the things that we are
+
+56
+00:15:45,260 --> 00:15:50,700
+planning to do:
+we are currently tinkering with with the
+
+57
+00:15:50,700 --> 00:16:03,680
+Ethereum nodes. We have to run one to be able to gain?? ERC20 tokens and our
+
+58
+00:16:03,680 --> 00:16:15,510
+first ERC 20 token, once we have that
+operational is going to be EOS and I'm
+
+59
+00:16:15,510 --> 00:16:25,160
+not sure on the particulars yet but most
+likely will have a 0% market fee for
+
+60
+00:16:25,160 --> 00:16:35,070
+EOS token only because at some point
+it's going to be a Graphene based token. And once
+
+61
+00:16:35,070 --> 00:16:45,649
+that's happened we'll create a gateway for EOS.
+
+62
+00:16:45,649 --> 00:16:55,019
+Because we think that having Bitshares as a premier platform for EOS tokens and
+
+63
+00:16:55,019 --> 00:17:03,839
+all the tokens created on EOS is
+achievable and is actually
+
+64
+00:17:03,839 --> 00:17:11,730
+desirable because as far as I know there
+are projects on creating DEXes on EOS
+
+65
+00:17:11,730 --> 00:17:25,100
+itself but we have the positioning to be
+first such a DEX without actually
+
+66
+00:17:25,100 --> 00:17:32,909
+import?? to EOS because graphene chains
+have an ability to sidechain to each
+
+67
+00:17:32,909 --> 00:17:43,110
+other and hopefully within the next half
+a year so teams on EOS and other chains
+
+68
+00:17:43,110 --> 00:17:50,640
+would realize the tools to allow that
+and do all the research required for
+
+69
+00:17:50,640 --> 00:18:03,780
+that. Next up we are probably going to
+try and backport escrow functionality
+
+70
+00:18:03,780 --> 00:18:12,710
+from Steem into Bitshares. And we have a team of people who can work on that.
+
+71
+00:18:12,710 --> 00:18:23,690
+Possibly as soon as we are sure that
+yeah that's feasible for us in a short term
+
+72
+00:18:23,690 --> 00:18:31,830
+will create a working proposal for that if
+meirin?? beats?? us to that. Because escrow
+
+73
+00:18:31,830 --> 00:18:41,429
+functionality would allow creation of
+peer to peer gating. So you will have
+
+74
+00:18:41,429 --> 00:18:46,269
+something along the lines of
+
+75
+00:18:46,269 --> 00:18:52,419
+local bitcoins. Except local bitcoins
+are a centralized service that allows
+
+76
+00:18:52,419 --> 00:19:04,619
+peer to peer exchanges of bitcoins. [That said] we were researching using the multi-sig
+
+77
+00:19:04,619 --> 00:19:13,259
+schemes for that and decided that, while
+it's possible it's still a bit clunky.
+
+78
+00:19:13,919 --> 00:19:21,159
+That's why we kind of shifted it some time into the
+
+79
+00:19:21,159 --> 00:19:29,979
+future. Once the tools that offer more
+elegant solutions are in
+
+80
+00:19:29,979 --> 00:19:42,100
+place.That's probably all for now,
+if you have any questions... Oh yeah,
+
+81
+00:19:42,100 --> 00:19:47,710
+another thing is; hopefully if you are
+going to Steemfest you will be able to
+
+82
+00:19:47,710 --> 00:19:57,700
+see me if I get my visa done in a timely
+manner. Because if that happens I'll
+
+83
+00:19:57,700 --> 00:20:04,419
+go to Steemfest and do a presentation
+there. But I'll know in maybe a week or
+
+84
+00:20:04,419 --> 00:20:07,559
+week and a half.
+
+85
+00:20:19,900 --> 00:20:27,380
+Yeah we translated a lot of text
+for them and we are planning to have a
+
+86
+00:20:27,380 --> 00:20:39,380
+Decent gateway also powered by being a
+witness on Decent Network. But it's
+
+87
+00:20:39,380 --> 00:20:49,280
+probably going to be after an
+ERC20 gateway. Since it's not that
+
+88
+00:20:49,280 --> 00:20:53,450
+hard to create gateways for
+graphene-based
+
+89
+00:20:53,450 --> 00:21:00,050
+systems for us, it might happen before the ERC20 gateway but I'm not sure
+
+90
+00:21:00,050 --> 00:21:09,590
+on the timeline. But yeah that's in our plans and if you launch in
+
+91
+00:21:09,590 --> 00:21:20,300
+a Graphene based Network and you have a solid community and solid business case
+
+92
+00:21:20,300 --> 00:21:31,370
+for use of blockchain and are looking to
+listed it we are open to providing
+
+93
+00:21:31,370 --> 00:21:40,900
+gateways to the DEX because as far as
+we are concerned DEX is the thing that
+
+94
+00:21:40,900 --> 00:21:49,460
+tie all the Graphene based 
+chains together. And any other
+
+95
+00:21:49,460 --> 00:21:59,120
+chains as well. But we first look for
+several things: one of them is; if the
+
+96
+00:21:59,120 --> 00:22:07,550
+blockchain in question has any sort of
+governance solutions, so you can in the
+
+97
+00:22:07,550 --> 00:22:15,650
+future expect to see maybe Decred or I
+don't know - DASH. The second
+
+98
+00:22:15,650 --> 00:22:22,610
+thing is privacy centric block chains
+that's something that we really like. So
+
+99
+00:22:22,610 --> 00:22:30,860
+Monero, ZCash,
+I don't know PIVX or well whatever, are
+
+100
+00:22:30,860 --> 00:22:34,989
+the chains that have
+functionality we are looking into
+
+101
+00:22:34,989 --> 00:22:48,220
+creating but that's probably going to
+be in 2018, maybe earlier. Our
+
+102
+00:22:48,220 --> 00:22:57,999
+idea is that we want to move at the pace
+that's comfortable for us. So we are
+
+103
+00:22:57,999 --> 00:23:05,690
+sort of you know when done,
+there are no ATA's but for Graphene based
+
+104
+00:23:05,690 --> 00:23:11,210
+chains it's maybe like we got to asses
+about that, we got to to set up the
+
+105
+00:23:11,210 --> 00:23:17,470
+infrastructure for that and now that we
+have, to test that and release into the
+
+106
+00:23:17,470 --> 00:23:24,289
+to the public. And then another couple of
+weeks to do a public testing before we
+
+107
+00:23:24,289 --> 00:23:31,009
+send the code upstream. So it can be
+included into the reference wallets and
+
+108
+00:23:31,009 --> 00:23:38,769
+into any other the Bitshares based
+interfaces.
+
+109
+00:23:52,370 --> 00:23:59,600
+You'll still have to do it via Bitshares.
+You send your money to for example
+
+110
+00:23:59,600 --> 00:24:06,920
+Decent gateway on Bitshares. You get Rudex decent tokens or
+
+111
+00:24:06,920 --> 00:24:12,800
+whatever they're going to be called. Then
+you go and exchange them for, I don't
+
+112
+00:24:12,800 --> 00:24:21,170
+know Rudex tokens, and can then
+send them to news network. And the thing
+
+113
+00:24:21,170 --> 00:24:30,350
+is since there are a 0% market fees
+we're not actually taking any money from
+
+114
+00:24:30,350 --> 00:24:40,040
+from those trades. And since most
+most graphene-based block chains don't
+
+115
+00:24:40,040 --> 00:24:49,580
+have sending or receiving fees or
+transaction fees. We we have zero
+
+116
+00:24:49,580 --> 00:25:00,320
+transaction fees to send it this way or that. And even with Bitshares and Peer-
+
+117
+00:25:00,320 --> 00:25:05,210
+plays that have those transaction fees,
+since we are getting paid by the
+
+118
+00:25:05,210 --> 00:25:15,680
+blockchain and the volume on on those
+movements is offset by those payments so
+
+119
+00:25:15,680 --> 00:25:30,830
+we are able to afford that, there are
+minimum amounts that we process. But
+
+120
+00:25:30,830 --> 00:25:38,600
+it's still it's still pretty
+friction free frictionless for you if
+
+121
+00:25:38,600 --> 00:25:46,340
+you're sending money from one blockchain
+to another. But it still requires
+
+122
+00:25:46,340 --> 00:25:58,910
+people willing to to trade. Well maybe
+depending on how liquid the
+
+123
+00:25:58,910 --> 00:26:08,180
+market, is it may be best if you take your Decent tokens sell them
+
+124
+00:26:08,180 --> 00:26:16,130
+for Bitshares and then say buy MUSE tokens
+for Bitshares but still [you have to exchange]. And yeah one of
+
+125
+00:26:16,130 --> 00:26:23,890
+the things that the community can help
+us with is doing the... Yeah.
+
+126
+00:26:24,800 --> 00:26:28,940
+Yeah, okay no problem.
+
+127
+00:26:30,050 --> 00:26:37,380
+Yeah sure cool. So one of the things that
+you can help us with is market making. If
+
+128
+00:26:37,380 --> 00:26:45,020
+you have a lot of tokens or one of those
+chains, you are welcome to come and
+
+129
+00:26:45,020 --> 00:26:52,980
+provide the liquidity for them. Yeah. Also
+vote for witnesses on all those networks.
+
+130
+00:26:52,980 --> 00:26:59,130
+We are looking for votes on Steem and
+in the chat here there were details about
+
+131
+00:26:59,130 --> 00:27:02,900
+that. Yeah, thank you for having me.
+
+132
+00:27:22,710 --> 00:27:30,670
+Power?? You can leave comments on our
+steem blog. You could also contact us our
+
+133
+00:27:30,670 --> 00:27:34,770
+own on telegram.
+
+134
+00:27:35,030 --> 00:27:42,710
+We have a really heavy presence on
+telegram with several several groups for
+
+135
+00:27:42,710 --> 00:27:48,740
+all these Graphene chains. So we have Peer plays rooms??, EOS rooms,
+
+136
+00:27:48,740 --> 00:27:54,350
+we have Bitshares DEX rooms and
+all of them.
+
+137
+00:27:54,350 --> 00:28:01,270
+Yeah I think yeah. In the chat here's
+the links, the device posting them.
+

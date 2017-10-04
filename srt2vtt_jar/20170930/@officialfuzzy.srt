@@ -1,0 +1,555 @@
+1
+00:00:02,500 --> 00:00:06,439
+Welcome everybody to another beyond
+Bitcoin hangout where you can power
+
+2
+00:00:06,439 --> 00:00:14,510
+yourself up with your own tokens. Today
+is Saturday September 30th 2017 and this
+
+3
+00:00:14,510 --> 00:00:19,429
+is hangout number 226. We are
+still in the beta stages of Whaletank
+
+4
+00:00:19,429 --> 00:00:23,150
+hangout and Whaleshares so there will
+be cool things that do come in the
+
+5
+00:00:23,150 --> 00:00:26,569
+future.
+But as of present we have a couple cool
+
+6
+00:00:26,569 --> 00:00:31,960
+things already where we like to benefit
+the individuals who have a little bit of
+
+7
+00:00:31,960 --> 00:00:36,769
+interest in creating their own tokens
+and potentially leveraging them to help
+
+8
+00:00:36,769 --> 00:00:41,179
+their own projects. Every week people
+join up to the whaletank to talk about
+
+9
+00:00:41,179 --> 00:00:45,730
+their projects provide updates in what
+they're doing in the crypto space. And
+
+10
+00:00:45,730 --> 00:00:50,390
+hopefully they're also considering how
+they can leverage the creation of the
+
+11
+00:00:50,390 --> 00:00:56,539
+token and the utilization thereof, to not
+
+12
+00:00:56,539 --> 00:01:00,739
+only empower their project but empower
+the other people who want to hold those
+
+13
+00:01:00,739 --> 00:01:05,960
+tokens and leverage those tokens to help
+the project as well. This is one of the
+
+14
+00:01:05,960 --> 00:01:11,480
+ways that I'm trying to incentivize
+people to play around in the sandbox, use
+
+15
+00:01:11,480 --> 00:01:16,310
+these tokens, see what works, see what
+doesn't and help us to document the
+
+16
+00:01:16,310 --> 00:01:24,020
+process and the progress or sometimes
+the pitfalls. The entire story thereof.
+
+17
+00:01:24,020 --> 00:01:28,910
+Now with that said everybody who wants
+to post a project can go to the weekly
+
+18
+00:01:28,910 --> 00:01:36,440
+RSVP threads at steemit.com forward
+slash @officialfuzzy where I
+
+19
+00:01:36,440 --> 00:01:44,480
+post the RSVP hangouts, hangout threads and I
+
+20
+00:01:44,480 --> 00:01:50,510
+resteem other people's content.
+And every week these
+
+21
+00:01:50,510 --> 00:01:59,180
+individuals who join up are allowed to
+RSVP. We ask them to get upvotes from
+
+22
+00:01:59,180 --> 00:02:03,380
+people who are within the community  and outside of the community to
+
+23
+00:02:03,380 --> 00:02:08,989
+join up to do so as well. The reason
+for this is it shows us that there are
+
+24
+00:02:08,989 --> 00:02:14,210
+people within the ecosystem who are
+willing to upvote you and kind of step
+
+25
+00:02:14,210 --> 00:02:17,600
+in and say yes I backed this person. If you do not
+
+26
+00:02:17,600 --> 00:02:21,680
+back a person and you do not believe in
+what they're doing
+
+27
+00:02:21,680 --> 00:02:30,140
+feel free to post and a reply, as opposed
+to a flag, giving information on
+
+28
+00:02:30,140 --> 00:02:34,190
+what is going on with the
+individual with the project at hand. And
+
+29
+00:02:34,190 --> 00:02:38,930
+if there's something that ends up being
+important that we needed to know about I
+
+30
+00:02:38,930 --> 00:02:44,330
+will always gladly tip people who bring
+relevant information in a productive
+
+31
+00:02:44,330 --> 00:02:50,360
+manner. Now with that said there are a
+few cool things that we
+
+32
+00:02:50,360 --> 00:02:56,420
+offer with power-ups to people who do
+create their own tokens and post the
+
+33
+00:02:56,420 --> 00:03:02,600
+link to where it trades on the Bitshares
+DEX. If you have a token and you are
+
+34
+00:03:02,600 --> 00:03:07,400
+willing to distribute it to these
+hangout attendees and also have it on
+
+35
+00:03:07,400 --> 00:03:12,890
+the Bitshares DeX, you are able to
+double the chances of you becoming of
+
+36
+00:03:12,890 --> 00:03:19,250
+the first or increase the chances of
+being in a preferable order, meaning the
+
+37
+00:03:19,250 --> 00:03:25,910
+first first second or third in these
+hangout segments.
+
+38
+00:03:25,910 --> 00:03:32,120
+If you have a token holding this token and
+
+39
+00:03:32,120 --> 00:03:37,340
+posting the link to it will double your
+chances as one powerup. As the second
+
+40
+00:03:37,340 --> 00:03:42,440
+powerup we have 15 minutes that are
+established for every project to have as
+
+41
+00:03:42,440 --> 00:03:47,660
+a base. However you can earn extra
+minutes by share dropping on the people
+
+42
+00:03:47,660 --> 00:03:51,530
+who are going to attend this hangout and
+are going to sign the guest list that I
+
+43
+00:03:51,530 --> 00:03:57,590
+will provide. Now if the community is
+interested in that share drop, and once a
+
+44
+00:03:57,590 --> 00:04:02,570
+part of that share drop say yes,
+we can give you up to ten extra minutes
+
+45
+00:04:02,570 --> 00:04:07,640
+to talk about what is going on. I will
+always consider
+
+46
+00:04:07,640 --> 00:04:12,829
+whether the community is wanting
+to add extra minutes because of the
+
+47
+00:04:12,829 --> 00:04:19,400
+conversation too as well or just for the
+tokens. But we will definitely be able to
+
+48
+00:04:19,400 --> 00:04:24,200
+offer you extra time if you want to
+leverage those tokens. And finally we
+
+49
+00:04:24,200 --> 00:04:28,669
+give out well over five six hundred
+dollars a week
+
+50
+00:04:28,669 --> 00:04:33,020
+this hangout alone.
+Historically has actually been well over
+
+51
+00:04:33,020 --> 00:04:38,029
+a thousand dollars a week to the people
+who participate. And there's nowhere else
+
+52
+00:04:38,029 --> 00:04:42,710
+that I know of that you can transparently do this in
+
+53
+00:04:42,710 --> 00:04:47,029
+the Steem ecosystem and earning these
+tokens. So I urge everyone to consider
+
+54
+00:04:47,029 --> 00:04:51,439
+joining up because those people who do
+have their own token and join up and
+
+55
+00:04:51,439 --> 00:04:57,800
+provide the link for the final powerup
+that we offer, you will be able to
+
+56
+00:04:57,800 --> 00:05:04,250
+potentially earn one thousand beyondbits which is worth approximately four
+
+57
+00:05:04,250 --> 00:05:11,000
+hundred dollars at present. So with that
+said at the end of every week whenever I
+
+58
+00:05:11,000 --> 00:05:16,639
+choose that person, if you believe that
+your token is more valuable and that
+
+59
+00:05:16,639 --> 00:05:21,680
+there might be an opportunity that that
+you think that I missed, you can always
+
+60
+00:05:21,680 --> 00:05:26,000
+reach out to me and talk to me about it
+after the fact, and maybe maybe I will
+
+61
+00:05:26,000 --> 00:05:30,889
+change my mind. But if you do not have a
+token that you're leveraging, you will
+
+62
+00:05:30,889 --> 00:05:37,789
+not be able to earn these thousand beyondbits. However I do take the amount that
+
+63
+00:05:37,789 --> 00:05:42,650
+is earned and I distribute it to the
+people who join these hangouts as guest
+
+64
+00:05:42,650 --> 00:05:48,620
+speakers. So with that said if you would
+like larger payouts consider trying to
+
+65
+00:05:48,620 --> 00:05:53,569
+get the whale tank hangouts uploaded
+further! Tell people about them. Tell
+
+66
+00:05:53,569 --> 00:05:58,550
+people about your project and send a
+link to the Whaleshares hangout. Do
+
+67
+00:05:58,550 --> 00:06:03,139
+what you can to promote us, because
+promoting us and what we're doing here
+
+68
+00:06:03,139 --> 00:06:08,800
+is promoting everybody and also giving
+us the resources to continue paying you.
+
+69
+00:06:08,800 --> 00:06:15,560
+Now with that said today the order of
+precedence has been established. @Xanoxt
+
+70
+00:06:15,560 --> 00:06:20,439
+from Rudex, at six dollars and
+seventeen cents.
+
+71
+00:06:20,439 --> 00:06:26,509
+Nutela, had some things that he was
+going to talk about with Decent,
+
+72
+00:06:26,509 --> 00:06:32,240
+and he is standing at three
+dollars and twenty seven cents. @asbonclz
+
+73
+00:06:32,240 --> 00:06:37,279
+is going to be talking about
+addressing philippine problems monthly.
+
+74
+00:06:37,279 --> 00:06:42,980
+And that is hashtag
+for better Philippines on Steemit. And
+
+75
+00:06:42,980 --> 00:06:49,580
+he is tied with @Nutela who will come
+third. @Voiceshares a fitness sessions
+
+76
+00:06:49,580 --> 00:06:55,250
+we'll be following that and that will be
+@rideofpassion. We will then follow
+
+77
+00:06:55,250 --> 00:07:02,650
+this by GS gaming. And we will cap off
+the day with @theMarkyMark and his
+
+78
+00:07:02,650 --> 00:07:08,780
+project buildawale updates. So with
+that said I thank everyone who has
+
+79
+00:07:08,780 --> 00:07:12,740
+joined up today and who join us every
+week. And I thank you all for the little
+
+80
+00:07:12,740 --> 00:07:21,560
+things that you do that help us. All of
+you offer incredible value. And all of
+
+81
+00:07:21,560 --> 00:07:26,750
+you offer unique value. So always try to
+consider how you can leverage that to
+
+82
+00:07:26,750 --> 00:07:31,250
+help each other because that's how we
+form synergy and create ridiculous
+
+83
+00:07:31,250 --> 00:07:36,530
+amounts of value. Now with that said
+@Xanoxt I'll go ahead and I'll ask you
+
+84
+00:07:36,530 --> 00:07:40,490
+are you ready to step up to the plate
+and give everybody an update on what's
+
+85
+00:07:40,490 --> 00:07:44,800
+going on in the Rudex ecosystem?
+
+86
+00:26:18,059 --> 00:26:24,479
+Okay @Xanoxt really quickly I can
+give you about 20 more seconds if that's
+
+87
+00:26:24,479 --> 00:26:28,739
+okay? We're a little bit over the 15
+minutes but you're more than welcome to
+
+88
+00:26:28,739 --> 00:26:32,809
+join up every week and give us a status
+as well.
+
+89
+00:27:01,309 --> 00:27:06,260
+Thank @Xanoxt and if people want
+to reach out to you guys and ask you any
+
+90
+00:27:06,260 --> 00:27:12,380
+questions, or heck maybe they know of a
+chain or a graphene-based chain or
+
+91
+00:27:12,380 --> 00:27:17,900
+something similar like bitshares 1.0
+based kind of chain, a graphene 1.0 chain.
+
+92
+00:27:17,900 --> 00:27:22,340
+How would they reach out to you and
+contact you to let you know about all
+
+93
+00:27:22,340 --> 00:27:24,580
+this stuff?
+
+94
+00:27:58,410 --> 00:28:02,790
+Sounds good and thank you very much
+everybody for joining up to these
+
+95
+00:28:02,790 --> 00:28:07,380
+hangouts and participating in them.
+Thank you @Xanoxt for joining up to
+
+96
+00:28:07,380 --> 00:28:11,730
+provide all this information. You see
+these are things that a lot of people do
+
+97
+00:28:11,730 --> 00:28:16,770
+not know about and they should. And this
+is one of the means of us getting this
+
+98
+00:28:16,770 --> 00:28:21,179
+information out in a way that is open
+and transparent. I just want to urge
+
+99
+00:28:21,179 --> 00:28:26,070
+everyone here, who is part of these and
+those of you who are listening, to
+
+100
+00:28:26,070 --> 00:28:29,700
+consider,
+we have 2500 listeners just on
+
+101
+00:28:29,700 --> 00:28:34,380
+soundcloud a week. So we have people out
+there who are paying attention and
+
+102
+00:28:34,380 --> 00:28:39,090
+listening to us as well. If you're a
+listener and or you're in
+
+103
+00:28:39,090 --> 00:28:43,110
+here, please conside if there's a
+project that really seems like it's
+
+104
+00:28:43,110 --> 00:28:47,580
+going to bring value to your stake and
+that you think that you can add value to
+
+105
+00:28:47,580 --> 00:28:51,150
+them and give them a little bit of help
+in any way shape or form it, does not
+
+106
+00:28:51,150 --> 00:28:56,340
+have to be always money. This is the
+space of disruption, the disruption comes
+
+107
+00:28:56,340 --> 00:29:02,429
+from creation and innovation. So innovate
+and use your own value propositions to
+
+108
+00:29:02,429 --> 00:29:06,480
+uplift and support these valuable
+projects. Because without these projects
+
+109
+00:29:06,480 --> 00:29:11,610
+we're kind of standing still in the
+water. And it's really important. It's
+
+110
+00:29:11,610 --> 00:29:15,690
+really important to help them. And I know
+that I don't always do it perfectly but
+
+111
+00:29:15,690 --> 00:29:20,070
+I will say this just always try if you
+can. If there's a project that seems
+
+112
+00:29:20,070 --> 00:29:23,700
+valuable to you even if it's just one or
+two minutes to share something every
+
+113
+00:29:23,700 --> 00:29:27,980
+week, it's something they might not
+otherwise have.
+

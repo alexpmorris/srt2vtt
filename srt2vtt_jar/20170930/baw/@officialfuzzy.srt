@@ -1,0 +1,478 @@
+1
+00:00:00,570 --> 00:00:07,009
+@markymark you want to step up and chat
+a little bit about the buildawhale
+
+2
+00:00:18,870 --> 00:00:20,930
+you
+
+3
+00:02:55,290 --> 00:03:01,379
+well I just wanted to say because of
+this and I've been pretty pumped up
+
+4
+00:03:01,379 --> 00:03:04,829
+since I heard this since you told me what
+was going on and that you've gotten to
+
+5
+00:03:04,829 --> 00:03:10,950
+this point and just because of 
+the progression so I'll just say if
+
+6
+00:03:10,950 --> 00:03:16,019
+anybody wants to go out and and kind of
+show the progression through audio
+
+7
+00:03:16,019 --> 00:03:22,859
+parts from project BuildaWhalel on
+soundcloud you can download them and
+
+8
+00:03:22,859 --> 00:03:29,730
+maybe I'll just post
+something about it for like 300 beyondbit
+
+9
+00:03:29,730 --> 00:03:35,639
+reward or something to have people
+posts kind of like let's get a
+
+10
+00:03:35,639 --> 00:03:40,079
+timeline auditive of audio clips for you
+saying we have this much we have this
+
+11
+00:03:40,079 --> 00:03:44,519
+much we have this much you know maybe through in
+a little song in the background
+
+12
+00:03:44,519 --> 00:03:47,299
+or something
+
+13
+00:03:51,650 --> 00:03:57,970
+@steempowerpics is pretty good man I'm
+sure that he can do it
+
+14
+00:03:58,200 --> 00:04:03,630
+if you ask him but I will gladly pitch
+in toward it men to be honest it for
+
+15
+00:04:03,630 --> 00:04:06,720
+something like that I think these are
+the types of things that if the
+
+16
+00:04:06,720 --> 00:04:11,640
+community showcases them this is your
+content right its
+
+17
+00:04:11,640 --> 00:04:16,169
+downloadable by everybody you can go out
+and download it it's raw you can
+
+18
+00:04:16,169 --> 00:04:20,220
+edit it to do whatever you want except
+obviously lie and make it sound like
+
+19
+00:04:20,220 --> 00:04:25,080
+MarkyMark put his words
+together to say that he kills goats on
+
+20
+00:04:25,080 --> 00:04:30,510
+mountaintops and eats their eyeballs or something weird if you
+
+21
+00:04:30,510 --> 00:04:34,139
+do that if you do that we'll probably
+come after you
+
+22
+00:04:34,139 --> 00:04:41,030
+but other than that definitely verified
+but first he dragon breaths them right
+
+23
+00:04:41,030 --> 00:04:44,030
+but
+
+24
+00:04:49,800 --> 00:04:51,860
+you
+
+25
+00:05:45,120 --> 00:05:53,880
+really quick markymark I need to ask
+you have you done
+
+26
+00:05:53,880 --> 00:06:00,350
+anything with the website yet or are
+you getting started on that
+
+27
+00:06:06,110 --> 00:06:08,170
+you
+
+28
+00:06:31,860 --> 00:06:33,919
+you
+
+29
+00:07:03,570 --> 00:07:08,580
+well we actually have the reason I bring
+this up is we have it's it's not
+
+30
+00:07:08,580 --> 00:07:16,560
+finished but it's in MVP form for a  front-end website
+
+31
+00:07:16,560 --> 00:07:19,800
+we're gonna make
+it for US talk we're gonna have it too
+
+32
+00:07:19,800 --> 00:07:26,850
+so quite literally you'll have the
+trending content from there that
+
+33
+00:07:26,850 --> 00:07:31,890
+you can actually kind of have a
+news visualization for the forums right
+
+34
+00:07:31,890 --> 00:07:35,820
+so you might be out you don't want to go
+looking at the forums on your cell phone
+
+35
+00:07:35,820 --> 00:07:40,260
+but you can go and check and see what
+the news site looks like and what's
+
+36
+00:07:40,260 --> 00:07:44,910
+going on right and you can actually
+break it down into various tags and you
+
+37
+00:07:44,910 --> 00:07:49,110
+know have a primary tag with subtags
+underneath it and all the
+
+38
+00:07:49,110 --> 00:07:54,270
+things go there and the
+reason why I bring this up is in the
+
+39
+00:07:54,270 --> 00:07:58,650
+current form you might see that there's
+some tools that you have access to in
+
+40
+00:07:58,650 --> 00:08:02,940
+there there and some code that you can
+utilize and I've paid for it
+
+41
+00:08:02,940 --> 00:08:08,880
+I meanI need more people to
+probably work with it anyway and I don't
+
+42
+00:08:08,880 --> 00:08:12,690
+mind if people take it and just it was
+supposed to be open source from the very
+
+43
+00:08:12,690 --> 00:08:19,050
+beginning I just got the guy who started
+building it was a very fun story that
+
+44
+00:08:19,050 --> 00:08:26,520
+you guys can go listen to the archive of
+at any point in time looking back on
+
+45
+00:08:26,520 --> 00:08:30,660
+it its actually quite funny but it
+is available if you're interested in
+
+46
+00:08:30,660 --> 00:08:35,520
+checking it over man you just have to be
+obviously stubbornly persistent to make
+
+47
+00:08:35,520 --> 00:08:39,320
+sure I get you in connection with the
+guy
+
+48
+00:08:41,760 --> 00:08:46,890
+I believe
+that it was meant to
+
+49
+00:08:46,890 --> 00:08:53,280
+be able to be a wordpress plugin
+
+50
+00:08:53,330 --> 00:08:58,260
+yeah
+well that sounds like these two
+
+51
+00:08:58,260 --> 00:09:02,120
+things might marry together then pretty
+well buddy
+
+52
+00:09:02,120 --> 00:09:07,120
+you
+sounds good
+
+53
+00:09:10,250 --> 00:09:12,310
+you
+
+54
+00:10:06,320 --> 00:10:11,360
+I think
+we talked a little about this art
+
+55
+00:10:11,360 --> 00:10:16,700
+together last night maybe it was gosh
+I've been staying up so late doing stuff
+
+56
+00:10:16,700 --> 00:10:23,300
+the nights trail I think it was last
+night that we talked but regarding the
+
+57
+00:10:23,300 --> 00:10:27,200
+full node that you're planning on
+running for Steem
+
+58
+00:10:27,200 --> 00:10:31,790
+just make sure to let me know what you
+need as far as how much it cost to run
+
+59
+00:10:31,790 --> 00:10:37,079
+and we can do that
+at least until you get a witness you
+
+60
+00:10:37,079 --> 00:10:39,440
+know what I mean
+
+61
+00:10:44,160 --> 00:10:51,209
+anybody have any questions or comments we have about 3 minutes left
+
+62
+00:10:56,370 --> 00:10:58,430
+you
+
+63
+00:11:29,580 --> 00:11:32,630
+ 
+
+64
+00:11:32,710 --> 00:11:34,770
+you
+
+65
+00:13:50,470 --> 00:13:53,970
+who makes steem watch
+
+66
+00:13:55,699 --> 00:13:57,759
+you
+
+67
+00:14:00,290 --> 00:14:04,330
+you
+
+68
+00:14:19,480 --> 00:14:23,270
+but you see that's the problem that I
+have with that name I don't know if
+
+69
+00:14:23,270 --> 00:14:30,130
+that's serious or if it's like saying
+actually like it like kind of like null
+
+70
+00:14:35,779 --> 00:14:37,839
+you
+
+71
+00:14:50,250 --> 00:14:52,310
+you
+
+72
+00:15:04,440 --> 00:15:08,579
+well it seems like 15 minutes went by
+pretty dang quickly on this but I will
+
+73
+00:15:08,579 --> 00:15:14,120
+say Marky it made me
+smile when you're like I'm a
+
+74
+00:15:14,120 --> 00:15:19,319
+250-thousand Steem power buildawhale is now a whale and I know and I
+
+75
+00:15:19,319 --> 00:15:22,980
+want to make this clear to everybody
+because the Marky Mark the way he's
+
+76
+00:15:22,980 --> 00:15:30,480
+doing this is he's leasing steam power
+so he's not doing this for his
+
+77
+00:15:30,480 --> 00:15:34,740
+own profit quite as much as he is to try
+to make something that's extremely
+
+78
+00:15:34,740 --> 00:15:41,759
+valuable and intrinsically valuable and
+putting money back into the pockets of
+
+79
+00:15:41,759 --> 00:15:46,709
+people who are doing things that are
+bringing value so it's it's a very
+
+80
+00:15:46,709 --> 00:15:52,410
+important point I guess to bring up to
+consider voting for him and I'll say
+
+81
+00:15:52,410 --> 00:16:00,000
+this he's watching you on steemwatch so
+if to you vote him up he knows you
+
+82
+00:16:00,000 --> 00:16:05,910
+did buddy so anyway all jokes
+aside how do they reach out to you Marky
+
+83
+00:16:05,910 --> 00:16:08,089
+Mark
+
+84
+00:16:14,590 --> 00:16:16,650
+you
+
+85
+00:16:20,790 --> 00:16:22,850
+you
+
+86
+00:16:26,810 --> 00:16:28,870
+you
+
+87
+00:16:44,780 --> 00:16:46,840
+you
+
+88
+00:16:53,840 --> 00:17:00,440
+good job man and these are the
+types of things like whenever I'm
+
+89
+00:17:00,440 --> 00:17:05,780
+seeing what xanoxt is doing what voiceshares is doing Marky Mark  these guys
+
+90
+00:17:05,780 --> 00:17:11,870
+have been coming here for quite some
+time now and to be able to to watch the
+
+91
+00:17:11,870 --> 00:17:17,300
+seeds as they're planted start growing
+is probably one of the biggest blessings
+
+92
+00:17:17,300 --> 00:17:23,870
+that these hangouts have offered me
+personally and I'll just say
+
+93
+00:17:23,870 --> 00:17:28,069
+these are the types of things that
+rather than focus on television and all
+
+94
+00:17:28,069 --> 00:17:34,190
+the negative stuff that's going on maybe
+just maybe we can leverage this type of
+
+95
+00:17:34,190 --> 00:17:40,220
+stuff what we're doing here to create a
+new model that shows people that they
+
+96
+00:17:40,220 --> 00:17:43,970
+don't need to watch the negative shit on
+television and that maybe they can
+
+97
+00:17:43,970 --> 00:17:48,440
+actually create their own stories and
+archive their own stories the good and the
+
+98
+00:17:48,440 --> 00:17:56,810
+bad and show it truthfully honestly and
+build value and prove it and show the
+
+99
+00:17:56,810 --> 00:18:02,500
+world that you can go through troubling
+difficult times and still emerge
+
+100
+00:18:02,500 --> 00:18:08,360
+stronger and victorious so with that
+said I appreciate everybody who joins
+
+101
+00:18:08,360 --> 00:18:13,600
+the whale tank and I look forward to
+watching you all become whales
+
