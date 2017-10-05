@@ -11,6 +11,8 @@ public class DirScanner
     private final List<File> files = new ArrayList<File>();
     private final List<String> patts = new ArrayList<String>();
 
+    public static boolean recurseSubDirs = false;
+
     public static Iterable<File> scan(String... patterns) {
         return scan(new File(System.getProperty("user.dir")), patterns);
     }
@@ -53,7 +55,7 @@ public class DirScanner
         File[] fs = dir.listFiles();
         for(File f : fs) {
             File rel = new File(path, f.getName());
-            if(f.isDirectory()) {
+            if(f.isDirectory() && recurseSubDirs) {
                 scan(f, rel);
                 continue;
             }

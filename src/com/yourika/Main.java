@@ -54,7 +54,7 @@ public class Main {
         String speaker = fn_arr[fn_arr.length-2];
         boolean isHost = cueList.size() == 0;
         boolean isTitles = !isHost && speaker.equals("titles");
-        try (Scanner scanner =  new Scanner(Paths.get(fn))) {
+        try (Scanner scanner = new Scanner(Paths.get(fn))) {
             cueRec cue = null;
             while (scanner.hasNextLine()) {
                 if (cue == null) cue = new cueRec();
@@ -253,6 +253,7 @@ public class Main {
 
     static void getSubRipWildCard(String srtPath) {
         try {
+            DirScanner.recurseSubDirs = false;
             Iterable<File> fileScan = DirScanner.scan(srtPath);
             Iterator itr = fileScan.iterator();
             while(itr.hasNext()) {
@@ -270,7 +271,7 @@ public class Main {
 
         if (args.length == 0) {
             System.out.println("srt2vtt @host.srt @spkr1.srt @spkr2.srt titles.srt ... output.vtt output.htm");
-            System.out.println("srt2vtt @host.srt *.srt ... output.vtt output.htm\n");
+            System.out.println("srt2vtt @host.srt *.srt output.vtt output.htm\n");
             System.out.println("YouTube \"Force Caption\" Tag: \"yt:cc=on\"");
             System.exit(0);
         }
