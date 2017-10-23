@@ -14,6 +14,7 @@ import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.file.Paths;
+import java.text.DecimalFormat;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -30,6 +31,7 @@ public class Main {
     static boolean groupMode = false;
     static boolean alignMode = false;
     static boolean rawMode = false;
+    static boolean audacityMode = false;
 
     static class cueRec {
         String speaker = "";
@@ -317,6 +319,7 @@ public class Main {
 
             if (!rawMode) vtt.add("WEBVTT"+_lf+_lf);
 
+            DecimalFormat df3 = new DecimalFormat(".###");
             String startTime = "";
             String startAttr = "";
             String line = "";
@@ -350,6 +353,11 @@ public class Main {
                         vtt.add(Integer.toString(entries) + _lf);
                         vtt.add(cue.startTime + " --> " + cue.endTime + " " + cue.attr + _lf);
                     }
+                    if (audacityMode) {
+                        vtt.add(df3.format((double)cue.startTime_msec/1000) + "\t" +
+                                df3.format((double)cue.endTime_msec/1000) + "\t" +
+                                (cue.line1+" "+cue.line2).trim() + _lf);
+                    } else
                     if (spliceMode || saveRawCaption || rawMode) {
                         vtt.add(cue.line1+_lf);
                         if (!cue.line2.isEmpty()) vtt.add(cue.line2+_lf);
@@ -685,16 +693,10 @@ public class Main {
 
     }
 
-    public static void processGroupMode(String vttName) {
+    public static void processSpecialMode(String vttName, String newExt) {
         String[] fname = vttName.split("[.]");
         String vttFileName = fname[0];
-        saveWebVTT(cueList,vttFileName+"_grouped.vtt", true);
-    }
-
-    public static void processRawMode(String vttName) {
-        String[] fname = vttName.split("[.]");
-        String vttFileName = fname[0];
-        saveWebVTT(cueList,vttFileName+".txt", true);
+        saveWebVTT(cueList,vttFileName + newExt, true);
     }
 
     public static void main(String[] args) {
@@ -723,6 +725,8 @@ public class Main {
             System.out.println("   Note: YouTube WebVTT format also contains word-aligned captions for multiple languages");
             System.out.println("srt2vtt raw {group} transcript.{srt|vtt}");
             System.out.println("   outputs raw version of transcript (text only) for alignment, etc.");
+            System.out.println("srt2vtt audacity transcript.{srt|vtt}");
+            System.out.println("   outputs audacity-compatible text labels from captions file");
             System.out.println("YouTube \"Force Caption\" Tag: \"yt:cc=on\"");
             System.exit(0);
         }
@@ -739,26 +743,32 @@ public class Main {
             if (parm.equals("align")) alignMode = true; else
             if (alignMode & parm.contains(".json")) outputName = parm; else
             if (parm.equals("raw")) rawMode = true; else
+            if (parm.equals("audacity")) audacityMode = true; else
             if (parm.equals("splice")) spliceMode = true; else
             if (spliceMode && (parm.startsWith("m:") && parm.contains("."))) inputNameMP4 = parm.substring(2,parm.length()); else
             if (spliceMode && parm.contains("ffmpeg=")) ffmpegPath = parm.split("[=]")[1];
         }
 
         //get outputName from inputFileNames for cut/splice mode
-        if ((spliceMode || groupMode || rawMode) && (inputFileNames.size() > 0)) outputName = inputFileNames.get(0);
+        if ((spliceMode || groupMode || rawMode || audacityMode) && (inputFileNames.size() > 0)) outputName = inputFileNames.get(0);
 
         if (outputName.isEmpty()) System.exit(0);
 
         if (rawMode) {
             processVTT(outputName);
-            processRawMode(outputName);
+            processSpecialMode(outputName, ".txt");
+        } else
+        if (audacityMode) {
+            rawMode = true;
+            processVTT(outputName);
+            processSpecialMode(outputName, "_labels.txt");
         } else
         if (alignMode) {
             alignGentleJson2SRT(outputName);
         } else
         if (groupMode) {
             processVTT(outputName);
-            processGroupMode(outputName);
+            processSpecialMode(outputName,"_grouped.vtt");
         } else
         if (spliceMode) {
             groupMode = true;

@@ -16,6 +16,8 @@ srt2vtt align gentle.json
    Note: YouTube WebVTT format also contains word-aligned captions for multiple languages
 srt2vtt raw {group} transcript.{srt|vtt}
    outputs raw version of transcript (text only) for alignment, etc.
+srt2vtt audacity transcript.{srt|vtt}
+   outputs audacity-compatible text labels from captions file
 YouTube "Force Caption" Tag: "yt:cc=on"  
 ```
 
