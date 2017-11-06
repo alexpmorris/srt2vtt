@@ -7,17 +7,13 @@
 
 package com.yourika;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
-
+import org.json.*;
 import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.nio.file.Paths;
-import java.text.DecimalFormat;
+import java.net.*;
+import java.nio.file.*;
+import java.text.*;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.regex.*;
 
 import static java.lang.Character.isUpperCase;
 
@@ -218,6 +214,10 @@ public class Main {
         boolean isYoutTubeVTT = false;
         String nextStartTm = "";
         String nextEndTm = "";
+
+        //speakers should start with @
+        if (!isTitles && !speaker.startsWith("@")) speaker = "@" + speaker;
+
         try (Scanner scanner = new Scanner(Paths.get(fn))) {
             cueRec cue = null;
             while (scanner.hasNextLine()) {
@@ -249,7 +249,7 @@ public class Main {
                     if (!cue.endTime.isEmpty() && !cue.ytUpdateEndTm) {
                         if (!cue.line2.isEmpty()) cue.line1 = cue.line1 + " " + cue.line2;
                         cue.line2 = "";
-                        if (!isTitles) cue.line1 = cue.line1.replaceAll("@[\\w-:]+","");
+                        if (!isTitles) cue.line1 = cue.line1.replaceAll("@[\\w-]+: ","");
                         if (cue.line1.length() <= 90) {
                             Matcher match = maxLengthWithWords.matcher(cue.line1);
                             if (match.find()) cue.line1 = match.group(0);
@@ -752,7 +752,10 @@ public class Main {
         //get outputName from inputFileNames for cut/splice mode
         if ((spliceMode || groupMode || rawMode || audacityMode) && (inputFileNames.size() > 0)) outputName = inputFileNames.get(0);
 
-        if (outputName.isEmpty()) System.exit(0);
+        if (outputName.isEmpty()) {
+            System.out.println("No output file, so I don't know what to do!");
+            System.exit(0);
+        }
 
         if (rawMode) {
             processVTT(outputName);
